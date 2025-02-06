@@ -1935,7 +1935,7 @@ accepted for publication by The Review of Economic Studies, by Cristina Arellano
 [trendInflation](https://github.com/elmarmertens/trendInflation): code for trend inflation model of Mertens (2016, REStat, http://dx.doi.org/10.1162/REST_a_00549) and Garnier, Mertens and Nelson (2015, IJCB, http://www.ijcb.org/journal/ijcb15q4a2.htm). The model implemented here is the variant with stochastic volatility in all inflation gaps.
 
 ## Engineering
-[2D-Fortran-code-of-dam-break-using-SPH](https://github.com/jahid-buet/2D-Fortran-code-of-dam-break-using-SPH): by jahid-buet
+[2D-Fortran-code-of-dam-break-using-SPH](https://github.com/jahid-buet/2D-Fortran-code-of-dam-break-using-SPH):2d fortran code of  dam break using SPH numerical method by jahid-buet
 
 [Baseline-Lidar-assisted-Controller](https://github.com/MSCA-LIKE/Baseline-Lidar-assisted-Controller): codes of baseline lidar-assisted controllers (LAC) for bottom fixed and floating turbines, with Matlab sample codes to perform OpenFAST simulation with LAC, associated with paper [Evaluation of lidar-assisted wind turbine control under various turbulence characteristics](https://wes.copernicus.org/articles/8/149/2023/), by Feng Guo et al., <i>Wind Energy Science</i> (2023)
 
